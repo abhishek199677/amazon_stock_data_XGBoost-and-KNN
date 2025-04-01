@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+numpy
+pickle-mixin
+matplotlib
+snowflake-connector-python
+python-dotenv
+xgboost`
+streamlit
