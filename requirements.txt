@@ -5,5 +5,5 @@ pickle-mixin
 matplotlib
 snowflake-connector-python
 python-dotenv
-xgboost`
+xgboost
 streamlit
