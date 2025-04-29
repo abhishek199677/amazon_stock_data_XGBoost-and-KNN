@@ -1,6 +1,6 @@
 # amazon_stock_data_XGBoost-and-KNN
 
-### This repository focuses on predicting the stock price movement of Amazon.com, Inc. (AMZN) using two powerful machine learning algorithms: XGBoost and K-Nearest Neighbors (KNN). The goal is to determine whether the stock price will go higher or lower compared to the previous day.
+### This repository focuses on predicting the stock price movement of Amazon.com, Inc. (AMZN) using two powerful machine learning algorithms: XGBoost and K-Nearest Neighbors (KNN). The goal is to determine whether the stock price will go higher or lower than the previous day. It estimates how much Amazon's stock will be traded in upcoming periods (monthly, quarterly, or yearly) up to 2025.
 
 
 #### 🌟 Key Features
